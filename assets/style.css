@@ -1,0 +1,51 @@
+body {
+    background-image: url("qbkls.png");
+
+  
+}
+
+.justify-content-center {
+    
+    background-color: white;
+}
+
+ h1 {
+    color: #84a7b8;
+    
+
+ }
+
+.nav-link{
+ 
+
+    color: #f2b931;
+    font-weight: bold;
+    padding: 30px;
+}
+
+ul.nav a:hover { 
+    color: #4e4c49 !important; 
+}
+
+
+
+.container {
+
+   
+    margin-top: 70px;
+    background-color: white;
+    
+}
+form {
+    
+    background-color:white;
+    margin-top: 70px;
+    width:100%;
+    padding:20px;
+
+  } 
+  .btn-primary {
+
+    background-color: #f2b931;
+  }
+  
