@@ -1,5 +1,17 @@
+
+html {
+    height: 100%;
+    margin: 0;
+    padding:0;
+}
+
+
+
+
 body {
     background-image: url("qbkls.png");
+    height: 100%;
+    
 
   
 }
@@ -12,6 +24,14 @@ body {
  h1 {
     color: #84a7b8;
     
+
+ }
+
+
+ .wrapper  {
+
+
+margin-top: 70px;
 
  }
 
@@ -32,7 +52,7 @@ ul.nav a:hover {
 .container {
 
    
-    margin-top: 70px;
+    
     background-color: white;
     
 }
@@ -46,6 +66,21 @@ form {
   } 
   .btn-primary {
 
+
+
+
     background-color: #f2b931;
   }
+  
+
+  .wrapper2{
+    align-content: center
+    bottom: 0;
+    margin-top: 10%;
+    width: 100%;
+    height: 90px;
+    line-height: 60px;
+    background-color: #4e4c49;
+       }
+  
   
